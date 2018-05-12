@@ -1,0 +1,29 @@
+_repo: The-Instant-of-Now_31651
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31651-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cox, Irving E.
+    gutenberg_agent_id: '31427'
+    url: http://www.gutenberg.org/2009/agents/31427
+description: In this tale of revolutionary upheaval in the distant future, Eddie Dirrul
+  finds himself caught up in the machinations of an insurgency plot that quickly spirals
+  out of control. But in addition to the age-old motivations of power and greed, the
+  added elements of ESP and mind control make the situation even more complicated
+  and potentially disastrous.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31651'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Instant of Now
+url: http://www.gutenberg.org/ebooks/31651
